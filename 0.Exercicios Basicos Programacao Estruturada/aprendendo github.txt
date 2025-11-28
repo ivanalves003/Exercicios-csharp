@@ -1,0 +1,3 @@
+git remote add origin https://github.com/ivanalves003/Exercicios-csharp.git
+git branch -M main
+git push -u origin main
