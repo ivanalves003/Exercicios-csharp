@@ -1,0 +1,14 @@
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\0.Exercicios Basicos Programacao Estruturada\exercicio2-estrutura-condicional\ex1\ex1\obj\Debug\net8.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\0.Exercicios Basicos Programacao Estruturada\exercicio2-estrutura-condicional\ex1\ex1\obj\Debug\net8.0\ex1.AssemblyInfoInputs.cache
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\0.Exercicios Basicos Programacao Estruturada\exercicio2-estrutura-condicional\ex1\ex1\obj\Debug\net8.0\ex1.AssemblyInfo.cs
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\0.Exercicios Basicos Programacao Estruturada\exercicio2-estrutura-condicional\ex1\ex1\obj\Debug\net8.0\ex1.csproj.CoreCompileInputs.cache
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\0.Exercicios Basicos Programacao Estruturada\exercicio2-estrutura-condicional\ex1\ex1\bin\Debug\net8.0\ex1.exe
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\0.Exercicios Basicos Programacao Estruturada\exercicio2-estrutura-condicional\ex1\ex1\bin\Debug\net8.0\ex1.deps.json
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\0.Exercicios Basicos Programacao Estruturada\exercicio2-estrutura-condicional\ex1\ex1\bin\Debug\net8.0\ex1.runtimeconfig.json
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\0.Exercicios Basicos Programacao Estruturada\exercicio2-estrutura-condicional\ex1\ex1\bin\Debug\net8.0\ex1.dll
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\0.Exercicios Basicos Programacao Estruturada\exercicio2-estrutura-condicional\ex1\ex1\bin\Debug\net8.0\ex1.pdb
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\0.Exercicios Basicos Programacao Estruturada\exercicio2-estrutura-condicional\ex1\ex1\obj\Debug\net8.0\ex1.dll
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\0.Exercicios Basicos Programacao Estruturada\exercicio2-estrutura-condicional\ex1\ex1\obj\Debug\net8.0\refint\ex1.dll
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\0.Exercicios Basicos Programacao Estruturada\exercicio2-estrutura-condicional\ex1\ex1\obj\Debug\net8.0\ex1.pdb
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\0.Exercicios Basicos Programacao Estruturada\exercicio2-estrutura-condicional\ex1\ex1\obj\Debug\net8.0\ex1.genruntimeconfig.cache
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\0.Exercicios Basicos Programacao Estruturada\exercicio2-estrutura-condicional\ex1\ex1\obj\Debug\net8.0\ref\ex1.dll
