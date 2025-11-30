@@ -1,0 +1,14 @@
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1\exercicio1\obj\Debug\net8.0\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1\exercicio1\obj\Debug\net8.0\exercicio1.AssemblyInfoInputs.cache
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1\exercicio1\obj\Debug\net8.0\exercicio1.AssemblyInfo.cs
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1\exercicio1\obj\Debug\net8.0\exercicio1.csproj.CoreCompileInputs.cache
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1\exercicio1\bin\Debug\net8.0\exercicio1.exe
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1\exercicio1\bin\Debug\net8.0\exercicio1.deps.json
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1\exercicio1\bin\Debug\net8.0\exercicio1.runtimeconfig.json
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1\exercicio1\bin\Debug\net8.0\exercicio1.dll
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1\exercicio1\bin\Debug\net8.0\exercicio1.pdb
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1\exercicio1\obj\Debug\net8.0\exercicio1.dll
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1\exercicio1\obj\Debug\net8.0\refint\exercicio1.dll
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1\exercicio1\obj\Debug\net8.0\exercicio1.pdb
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1\exercicio1\obj\Debug\net8.0\exercicio1.genruntimeconfig.cache
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1\exercicio1\obj\Debug\net8.0\ref\exercicio1.dll

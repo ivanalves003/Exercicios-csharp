@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROJETOS IVAN\\PROGRAMA\u00C7\u00C3O\\C#\\PROJETOS\\Exercicios Basicos Programacao Estruturada\\exercicio1-estrutura sequencial\\ex2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4C41EA-A847-4DBE-9612-8500C0790729}|ex2\\ex2.csproj|c:\\projetos ivan\\programa\u00E7\u00E3o\\c#\\projetos\\exercicios basicos programacao estruturada\\exercicio1-estrutura sequencial\\ex2\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4C41EA-A847-4DBE-9612-8500C0790729}|ex2\\ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PROJETOS IVAN\\PROGRAMA\u00C7\u00C3O\\C#\\PROJETOS\\Exercicios Basicos Programacao Estruturada\\exercicio1-estrutura sequencial\\ex2\\ex2\\Program.cs",
+              "RelativeDocumentMoniker": "ex2\\Program.cs",
+              "ToolTip": "C:\\PROJETOS IVAN\\PROGRAMA\u00C7\u00C3O\\C#\\PROJETOS\\Exercicios Basicos Programacao Estruturada\\exercicio1-estrutura sequencial\\ex2\\ex2\\Program.cs",
+              "RelativeToolTip": "ex2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T02:10:54.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

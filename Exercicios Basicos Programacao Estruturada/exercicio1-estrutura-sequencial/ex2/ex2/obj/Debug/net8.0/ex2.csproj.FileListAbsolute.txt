@@ -1,0 +1,14 @@
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1-estrutura sequencial\ex2\ex2\bin\Debug\net8.0\ex2.exe
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1-estrutura sequencial\ex2\ex2\bin\Debug\net8.0\ex2.deps.json
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1-estrutura sequencial\ex2\ex2\bin\Debug\net8.0\ex2.runtimeconfig.json
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1-estrutura sequencial\ex2\ex2\bin\Debug\net8.0\ex2.dll
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1-estrutura sequencial\ex2\ex2\bin\Debug\net8.0\ex2.pdb
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1-estrutura sequencial\ex2\ex2\obj\Debug\net8.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1-estrutura sequencial\ex2\ex2\obj\Debug\net8.0\ex2.AssemblyInfoInputs.cache
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1-estrutura sequencial\ex2\ex2\obj\Debug\net8.0\ex2.AssemblyInfo.cs
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1-estrutura sequencial\ex2\ex2\obj\Debug\net8.0\ex2.csproj.CoreCompileInputs.cache
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1-estrutura sequencial\ex2\ex2\obj\Debug\net8.0\ex2.dll
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1-estrutura sequencial\ex2\ex2\obj\Debug\net8.0\refint\ex2.dll
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1-estrutura sequencial\ex2\ex2\obj\Debug\net8.0\ex2.pdb
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1-estrutura sequencial\ex2\ex2\obj\Debug\net8.0\ex2.genruntimeconfig.cache
+C:\PROJETOS IVAN\PROGRAMAÇÃO\C#\PROJETOS\Exercicios Basicos Programacao Estruturada\exercicio1-estrutura sequencial\ex2\ex2\obj\Debug\net8.0\ref\ex2.dll

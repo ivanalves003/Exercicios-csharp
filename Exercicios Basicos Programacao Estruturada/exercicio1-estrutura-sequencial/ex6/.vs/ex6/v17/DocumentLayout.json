@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROJETOS IVAN\\PROGRAMA\u00C7\u00C3O\\C#\\PROJETOS\\0.Exercicios Basicos Programacao Estruturada\\exercicio1-estrutura-sequencial\\ex6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B95231E-946D-49EA-A38E-C988E326C959}|ex6\\ex6.csproj|c:\\projetos ivan\\programa\u00E7\u00E3o\\c#\\projetos\\0.exercicios basicos programacao estruturada\\exercicio1-estrutura-sequencial\\ex6\\ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B95231E-946D-49EA-A38E-C988E326C959}|ex6\\ex6.csproj|solutionrelative:ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PROJETOS IVAN\\PROGRAMA\u00C7\u00C3O\\C#\\PROJETOS\\0.Exercicios Basicos Programacao Estruturada\\exercicio1-estrutura-sequencial\\ex6\\ex6\\Program.cs",
+              "RelativeDocumentMoniker": "ex6\\Program.cs",
+              "ToolTip": "C:\\PROJETOS IVAN\\PROGRAMA\u00C7\u00C3O\\C#\\PROJETOS\\0.Exercicios Basicos Programacao Estruturada\\exercicio1-estrutura-sequencial\\ex6\\ex6\\Program.cs",
+              "RelativeToolTip": "ex6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T20:20:33.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
